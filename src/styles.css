@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #fdfcf9;
+  color: #2e3332;
+  font-family: 'PT Serif', serif;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  border: 2px solid #606e72;
+  border-radius: 5px;
+  object-fit: cover;
+  object-position: center;
+}
