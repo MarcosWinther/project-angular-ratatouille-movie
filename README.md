@@ -9,6 +9,8 @@ Projeto Angular Blog proposto como projeto de portfólio pelo professor Felipe A
 >  - Mudei a logo, colocando como capa uma imagem do filme;
 > - Alterei a logo e cores do projeto
 
+Link GitHubPages: https://marcoswinther.github.io/project-angular-ratatouille-movie/
+
 > #### Os textos utilizados foram copiados dos seguintes sites:
 > - **Sinopse:** https://cinema10.com.br/filme/ratatouille
 > - **Crítica do filme:** https://www.papodecinema.com.br/filmes/ratatouille/
