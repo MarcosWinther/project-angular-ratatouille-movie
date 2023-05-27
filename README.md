@@ -3,7 +3,7 @@
 Projeto Angular Blog proposto como projeto de portfólio pelo professor Felipe Aguiar da plataforma educacional DIO.
 
 > #### O que foi feito de diferente:
-> - O tema do quiz que foi sobre o filme Ratatouille da Pixar Disney;
+> - O tema do blog que foi sobre o filme Ratatouille da Pixar Disney;
 > - Coloquei imagens do filme;
 > - Coloquei mais paragráfos nas notícias;
 >  - Mudei a logo, colocando como capa uma imagem do filme;
